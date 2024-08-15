@@ -1,6 +1,6 @@
 def main():
     # Read the number of students
-    N = int(input())
+    N = int(input("enter the number of students:"))
 
     # Initialize an empty list to store student data
     student_data = []
